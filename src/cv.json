@@ -1,0 +1,56 @@
+{
+  "name": "Carlos Eduardo Castor de Melo",
+  "title": "Full Stack Developer",
+  "tagline": "Building robust and scalable web applications",
+  "contact": {
+    "email": "carlos@example.com",
+    "linkedin": "https://linkedin.com/in/carloseduardo",
+    "github": "https://github.com/castor-dev"
+  },
+  "experience": [
+    {
+      "position": "Senior Software Engineer",
+      "company": "Tech Solutions Inc.",
+      "start": "Jan 2020",
+      "end": "Present",
+      "description": "Leading a team of developers to build scalable web applications using React and Node.js."
+    },
+    {
+      "position": "Software Engineer",
+      "company": "Web Innovations",
+      "start": "Jun 2017",
+      "end": "Dec 2019",
+      "description": "Developed front-end components and REST APIs for client projects."
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. in Computer Science",
+      "institution": "University of Technology",
+      "start": "2013",
+      "end": "2017",
+      "description": "Focused on software engineering and web development."
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "Docker",
+    "AWS"
+  ],
+  "projects": [
+    {
+      "name": "Project Alpha",
+      "description": "A web platform for managing projects and tasks.",
+      "link": "https://github.com/castor-dev/project-alpha"
+    },
+    {
+      "name": "Portfolio Website",
+      "description": "Personal portfolio to showcase projects and skills.",
+      "link": "https://castor-dev.github.io/portfolio"
+    }
+  ]
+}

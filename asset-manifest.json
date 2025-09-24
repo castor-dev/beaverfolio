@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/beaverfolio/static/css/main.f855e6bc.css",
+    "main.js": "/beaverfolio/static/js/main.64267d50.js",
+    "static/js/453.ad65977c.chunk.js": "/beaverfolio/static/js/453.ad65977c.chunk.js",
+    "static/media/logo.svg": "/beaverfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/beaverfolio/index.html",
+    "main.f855e6bc.css.map": "/beaverfolio/static/css/main.f855e6bc.css.map",
+    "main.64267d50.js.map": "/beaverfolio/static/js/main.64267d50.js.map",
+    "453.ad65977c.chunk.js.map": "/beaverfolio/static/js/453.ad65977c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.64267d50.js"
+  ]
+}
